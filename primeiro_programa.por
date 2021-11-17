@@ -5,7 +5,8 @@ programa
 	funcao inicio()
 	{//os algoritmos são feitos dentro da abertura e fechamento 
 	//da funcao inicio
-		escreva("bom dia mundo")
+		escreva("HELLO WORLD ")
+		escreva("\nHELLO WORLD 2")
 	
 	}
 }
@@ -14,7 +15,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 228; 
+ * @POSICAO-CURSOR = 243; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, vazio;
