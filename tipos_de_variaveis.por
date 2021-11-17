@@ -3,19 +3,18 @@ programa
 	
 	funcao inicio()
 	{
-	//aula de variaveis
 
-	//primeiro passo é declarar uma variavel
-	real salario		
-	inteiro idade // declaração de variavel
+	//TIPOS DE VARIAVEIS
 
-	// = : isso significa atribuição para valores 
-	idade = 50 // computador separou um espaço na memoria chamado idade com o valor de 50
+	//INTEIRO
+	//REAL 
+	//CARACTER
+	//LOGICO
+	//CADEIA
 
-	escreva("a idade é ", idade)
 	
 	
-				
+
 	
 	}
 }
@@ -24,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 324; 
+ * @POSICAO-CURSOR = 116; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
