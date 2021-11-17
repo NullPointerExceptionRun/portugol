@@ -3,24 +3,14 @@ programa
 	
 	funcao inicio()
 	{
+	inteiro nasc, idade
+	nasc = 1985
 
-	//TIPOS DE VARIAVEIS
+	idade = 2020 - nasc
 
-	//INTEIRO
-	//REAL 
-	//CARACTER
-	//LOGICO
-	//CADEIA
-
-	//O QUE SÃO VARIAVEIS ?
-	//Variavel são espaços na memoria que armazenam dados que podem ser modificados durante execução do programa
-
-	//exemplo
-	//Variavel para armazenar a hora do dia
-	//Variavel para armazenar o saldo bancario de um cliente 
-	//Variavel para armazenar media de um aluno durante um periodo
+	escreva("sua idade é ", idade)
 	
-
+	
 	
 	}
 }
@@ -29,7 +19,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 425; 
+ * @POSICAO-CURSOR = 71; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
