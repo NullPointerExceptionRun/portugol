@@ -4,16 +4,13 @@ programa
 	funcao inicio()
 	{
 
-	  inteiro  idade, ano, total
 
+	cadeia objeto = "Etendi minha primeira cadeia de objetos aqui no portugol" 
+	cadeia nova = "estou novamente apredendo o conceito de cadeia aqui no portugol"
 
-	  ano=365
-		
-	  escreva("qual a sua idade ? ")
-	  leia(idade)
-	  total = idade * ano
-	  escreva("voce tem ", total) 
-	  
+	escreva(objeto)
+	escreva(nova)
+	
 	 
 		
 	}
@@ -23,7 +20,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 195; 
+ * @POSICAO-CURSOR = 229; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, vazio;
