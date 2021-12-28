@@ -3,14 +3,22 @@ programa
 	
 	funcao inicio()
 	{
+		
+		inteiro contador
 		cadeia frutas[4]
+
+		contador = 0
 		frutas[0]="PERA"
 		frutas[1]="MELÃO"
 		frutas[2]="ABACAXI"
 		frutas[3]="MORANGO"
 		
+		faca{
+			escreva(frutas[contador]+"\n")
 
-		escreva(frutas[1])
+			contador ++
+			
+			}enquanto(contador <= 3)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -18,7 +26,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 171; 
+ * @POSICAO-CURSOR = 174; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
